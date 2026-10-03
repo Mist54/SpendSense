@@ -1,0 +1,50 @@
+description,predicted_category,confidence
+UPI payment to Cafe Aroma for lunch,Transfer,0.7866
+Metro card recharge,Utilities,0.1519
+Monthly Netflix membership,Subscription,0.7921
+Apollo Pharmacy purchase,Healthcare,0.848
+Amazon purchase - wireless mouse,Shopping,0.3188
+IRCTC train ticket booking,Travel,0.497
+Electricity bill payment,Subscription,0.5697
+LIC premium payment,Insurance,0.4827
+Monthly house rent transfer,Transfer,0.5528
+Udemy course purchase,Education,0.4779
+ATM cash withdrawal fee,Fees,0.8502
+Home loan EMI payment,Mortgage,0.8951
+Salary credited from employer,Transfer,0.2585
+Transfer to savings account,Transfer,0.8928
+Barber shop payment,Shopping,0.3764
+Dinner at Spice Garden,Restaurants,0.7847
+Uber ride to office,Transfer,0.2482
+Spotify Premium monthly plan,Subscription,0.8428
+Medical consultation payment,Healthcare,0.4043
+Clothing purchase at Max Fashion,Utilities,0.2841
+Flight ticket to Delhi,Transfer,0.4121
+Water utility bill,Utilities,0.7557
+Car insurance renewal,Travel,0.2699
+Apartment rent payment,Rent,0.9692
+Coursera professional course,Education,0.7589
+Bank service charge,Fees,0.4084
+Mortgage payment to home lender,Mortgage,0.8343
+Monthly salary deposit,Transfer,0.6844
+UPI transfer to personal bank account,Transfer,0.978
+Salon haircut and grooming,Personal Care,0.2424
+Movie theatre ticket,Entertainment,0.3933
+Grocery purchase at local supermarket,Groceries,0.5659
+Weekend hotel reservation,Restaurants,0.1532
+YouTube Premium subscription,Subscription,0.93
+Dental clinic payment,Healthcare,0.9962
+Online purchase from Flipkart,Entertainment,0.6959
+Petrol station payment,Transportation,0.3518
+Electricity recharge,Restaurants,0.1532
+Term life insurance premium,Insurance,0.8976
+Rent paid to landlord,Rent,0.5044
+Programming book purchase,Entertainment,0.6158
+Foreign transaction fee,Fees,0.9833
+Home mortgage monthly installment,Mortgage,0.7826
+Freelance payment received,Mortgage,0.3559
+Money transfer to family account,Transfer,0.8714
+Skincare and grooming products,Groceries,0.3075
+Concert ticket purchase,Entertainment,0.7443
+Fresh vegetables and groceries,Groceries,0.6438
+Restaurant takeaway order,Restaurants,0.5404

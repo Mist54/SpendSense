@@ -1,0 +1,56 @@
+# PyCharm / IntelliJ
+.idea/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Generated model files
+*.pkl
+*.joblib
+
+# Package / build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Test output directory
+\/test_output/
+
+# OpenCode project metadata
+.freebuff/
+
+# Generated model training outputs
+models/confusion_matrix.png
+models/misclassified.csv
+models/unsupervised/
+
+# Generated sample prediction output
+Dataset/sample_input_predictions.csv
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Note: The Dataset/ directory is intentionally NOT ignored.

@@ -1,0 +1,50 @@
+description,expected_category
+[debit] WAL-MART #1842,Shopping
+[debit] TARGET STORE #0912,Shopping
+[debit] AMAZON MKTPLACE PMTS,Shopping
+[debit] HOME DEPOT #5531,Shopping
+[debit] COSTCO WHSE #1023,Groceries
+[debit] KROGER #0048,Groceries
+[debit] SAFEWAY #1298,Groceries
+[debit] PUBLIX SUPER MARKET,Groceries
+[debit] UBER TRIP HELP.UBER.COM,Transportation
+[debit] LYFT *RIDE,Transportation
+[debit] SHELL OIL 574321,Transportation
+[debit] CHEVRON 012345,Transportation
+[debit] NETFLIX.COM,Subscription
+[debit] SPOTIFY USA,Subscription
+[debit] ADOBE *CREATIVE CLOUD,Subscription
+[debit] AT&T BILL PAYMENT,Utilities
+[debit] COMCAST CABLE PAYMENT,Utilities
+[debit] CITY WATER DEPT,Utilities
+[debit] GEICO AUTO INSURANCE,Insurance
+[debit] STATE FARM INS PREM,Insurance
+[debit] ALLSTATE INSURANCE,Insurance
+[debit] NORTHWESTERN MUTUAL PREM,Insurance
+[debit] PENFED CU MTG PMT,Mortgage
+[debit] WELLS FARGO HOME MTG,Mortgage
+[debit] CHASE MORTGAGE PAYMENT,Mortgage
+[debit] APARTMENT RENT PAYMENT,Rent
+[debit] RENT PAYMENT ACH,Rent
+[debit] LANDLORD RENT PMT,Rent
+[debit] WALGREENS #4412,Healthcare
+[debit] CVS PHARMACY #2391,Healthcare
+[debit] KAISER PERMANENTE,Healthcare
+[debit] DENTAL ASSOCIATES,Healthcare
+[debit] STARBUCKS #10231,Restaurants
+[debit] CHIPOTLE 1827,Restaurants
+[debit] MCDONALDS #4412,Restaurants
+[debit] OLIVE GARDEN #2156,Restaurants
+[debit] MARRIOTT HOTEL,Travel
+[debit] HILTON HOTELS,Travel
+[debit] UNITED AIRLINES,Travel
+[debit] DELTA AIR LINES,Travel
+[debit] UDEMY.COM COURSE,Education
+[debit] COURSERA COURSE,Education
+[debit] TUITION PAYMENT ACH,Education
+[debit] ATM OPERATOR FEE,Fees
+[debit] BANK OF AMERICA SERVICE FEE,Fees
+[debit] FOREIGN TRANSACTION FEE,Fees
+[credit] ACME CORP PAYROLL DIR DEP,Income
+[credit] US TREASURY DIRECT DEPOSIT,Income
+[credit] TRANSFER FROM CHECKING TO SAVINGS,Transfer

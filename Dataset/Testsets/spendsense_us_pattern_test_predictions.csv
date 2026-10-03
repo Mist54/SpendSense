@@ -1,0 +1,50 @@
+description,predicted_category,confidence
+[debit] WAL-MART #1842,Shopping,0.9723
+[debit] TARGET STORE #0912,Shopping,0.9993
+[debit] AMAZON MKTPLACE PMTS,Shopping,0.9417
+[debit] HOME DEPOT #5531,Shopping,0.7784
+[debit] COSTCO WHSE #1023,Groceries,0.8932
+[debit] KROGER #0048,Groceries,0.9795
+[debit] SAFEWAY #1298,Groceries,0.9564
+[debit] PUBLIX SUPER MARKET,Groceries,0.9895
+[debit] UBER TRIP HELP.UBER.COM,Transportation,0.9196
+[debit] LYFT *RIDE,Transportation,0.8547
+[debit] SHELL OIL 574321,Transportation,0.9532
+[debit] CHEVRON 012345,Transportation,0.9293
+[debit] NETFLIX.COM,Subscription,0.8788
+[debit] SPOTIFY USA,Subscription,0.3227
+[debit] ADOBE *CREATIVE CLOUD,Subscription,0.4577
+[debit] AT&T BILL PAYMENT,Utilities,0.5729
+[debit] COMCAST CABLE PAYMENT,Utilities,0.7841
+[debit] CITY WATER DEPT,Utilities,0.7846
+[debit] GEICO AUTO INSURANCE,Insurance,0.9299
+[debit] STATE FARM INS PREM,Insurance,0.8812
+[debit] ALLSTATE INSURANCE,Insurance,0.8849
+[debit] NORTHWESTERN MUTUAL PREM,Insurance,0.9312
+[debit] PENFED CU MTG PMT,Mortgage,0.838
+[debit] WELLS FARGO HOME MTG,Mortgage,0.8859
+[debit] CHASE MORTGAGE PAYMENT,Mortgage,0.8391
+[debit] APARTMENT RENT PAYMENT,Rent,0.967
+[debit] RENT PAYMENT ACH,Rent,0.8923
+[debit] LANDLORD RENT PMT,Rent,0.9995
+[debit] WALGREENS #4412,Healthcare,0.9239
+[debit] CVS PHARMACY #2391,Healthcare,0.9924
+[debit] KAISER PERMANENTE,Healthcare,0.6859
+[debit] DENTAL ASSOCIATES,Healthcare,0.9992
+[debit] STARBUCKS #10231,Restaurants,0.8322
+[debit] CHIPOTLE 1827,Restaurants,0.8826
+[debit] MCDONALDS #4412,Restaurants,0.823
+[debit] OLIVE GARDEN #2156,Restaurants,0.9052
+[debit] MARRIOTT HOTEL,Travel,0.9423
+[debit] HILTON HOTELS,Travel,0.9307
+[debit] UNITED AIRLINES,Travel,0.9748
+[debit] DELTA AIR LINES,Travel,0.9539
+[debit] UDEMY.COM COURSE,Education,0.7713
+[debit] COURSERA COURSE,Education,0.896
+[debit] TUITION PAYMENT ACH,Education,0.6343
+[debit] ATM OPERATOR FEE,Fees,0.9861
+[debit] BANK OF AMERICA SERVICE FEE,Fees,0.7443
+[debit] FOREIGN TRANSACTION FEE,Fees,0.9719
+[credit] ACME CORP PAYROLL DIR DEP,Income,0.8676
+[credit] US TREASURY DIRECT DEPOSIT,Income,0.4135
+[credit] TRANSFER FROM CHECKING TO SAVINGS,Transfer,0.9425
